@@ -48,6 +48,13 @@
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
 *.srt linguist-language=SubRip-Text
+# OpenEdge ABL file
+*.p linguist-detectable=true
+*.p linguist-documentation=false
+*.p linguist-language=OpenEdge-ABL
+*.cls linguist-detectable=true
+*.cls linguist-documentation=false
+*.cls linguist-language=OpenEdge-ABL
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -164,7 +171,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Sunday, September 11th at 2:36 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
